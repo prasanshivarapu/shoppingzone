@@ -1,0 +1,351 @@
+.shopping {
+    font-weight: bold;
+
+}
+
+.center1 {
+    text-align: center;
+}
+
+
+
+
+.phone {
+    color: #959ead;
+    margin: 2px;
+    margin-right: 5px;
+}
+
+.image {
+    height: 70px;
+    width: 80px;
+}
+
+#item1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#item2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#item3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#item4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#item5 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://res.cloudinary.com/dmsyxfq2h/image/upload/v1678341660/multiple-products-to-the-cart-from-one-page_epljok.jpg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-size: 24px;
+    font-weight: 300;
+    font-family: "Roboto";
+}
+
+.custom-button {
+    background-color: #d0b200;
+    border-width: 0px;
+    color: white;
+    border-radius: 8px;
+    height: 45px;
+    width: 130px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    background-color: transparent;
+    color: #d0b200;
+    height: 45px;
+    width: 130px;
+    border-style: solid;
+    border-color: #d0b200;
+    border-width: 1px;
+    border-radius: 8px;
+}
+
+.wcu-section {
+    background-color: #f9fbfe;
+}
+
+.wcu-section-heading {
+    color: #183b56;
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.wcu-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-card {
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #e5eaf4;
+    border-width: 1px;
+}
+
+.wcu-card-image {
+    height: 90px;
+    width: 87px;
+}
+
+.wcu-card-title {
+    font-size: 22px;
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.wcu-card-description {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #7b8794;
+}
+
+.offers {
+    color: #323f4b;
+    font-weight: 600;
+    font-style: italic
+}
+
+.explore-menu-section {
+    background-color: white;
+}
+
+.menu-section-heading {
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: 700;
+    color: #183b56;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card-title {
+    font-size: 18px;
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+
+.healthyFood-container {
+    background-color: #f9fbfe;
+}
+
+.healthyFood-image {
+    width: 270px;
+}
+
+.healthyFood-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.healthyFood-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.healthyFood-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.delivery-payment-container {
+    background-color: white;
+
+}
+
+.healthyOffer-image {
+    width: 270px;
+}
+
+.delivery-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.healthy-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.payment-image {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thankyou-container {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thankyou-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thankyou-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.gift-box-image {
+    width: 270px;
+}
+
+.redeem-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.follow-us-container {
+    background-color: white;
+}
+
+.follow-us-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icons {
+    color: #d0b200;
+    font-size: 35px;
+    height: 10px;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    height: 80px;
+    width: 80px;
+    padding-top: 22px;
+    padding-bottom: 16px;
+    padding-left: 25px;
+    padding-right: 16px;
+    border-radius: 40px;
+    margin: 15px;
+}
+
+.footer-section {
+    background-color: #faf7e8;
+}
+
+.mail {
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.address {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.footer-image {
+    width: 80px;
+    height: 70px;
+}
+
+.gift-voucher {
+    color: #000000;
+    font-weight: 700;
+}
+
+@media print {
+    .image {
+        height: 0px;
+        width: 0px;
+    }
+
+    .menu-item-image {
+        height: 0px;
+        width: 0px;
+    }
+
+    .wcu-card-image {
+        height: 0px;
+        width: 0px;
+    }
+}
+.shop{
+    height: 55px;
+    width: 100px;
+}
